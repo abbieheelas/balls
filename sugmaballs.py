@@ -1,1 +1,2 @@
-print("sugma")
+b = input("sugma ")
+print("sugma ", b) 
